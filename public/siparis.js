@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+ 
+function adetSiparis(){
+	
+	
+	
+}
+
+function temizle(){
+	
+	
+}
