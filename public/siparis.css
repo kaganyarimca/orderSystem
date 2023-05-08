@@ -2,9 +2,36 @@
 
 table.table-1{
 	table-layout: fixed;
-	width: 700px;
+	width: 500px;
 	border: 3px #9258AF dashed ;
-	
-	
+}
+
+tr.tr-1{
+	height: 45px;
+}
+	/* çizelgenin ikinci satırları için CSS stili.*/
+tr.tr-2{
+	text-align:center;
+	height: 75px;
 	
 }
+td{
+	border: solid 3px #ff8000;/* turuncu*/
+}
+
+td.td-1{
+	text-align: center;	
+}
+
+button.button-1 {
+	width: 200px;
+	color: #400080;
+	font-weight: 850;
+}
+button.button-2 {
+	background-color:  #AAAA44;
+	width: 60%
+
+}
+
+

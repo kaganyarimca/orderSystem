@@ -1,7 +1,14 @@
 /**
  * 
  */
+const bilgiIletisi="Siparişleriniz burada görüntülenir."
  
+
+function sayfaYukle(){
+	
+	
+}
+
 function adetSiparis(){
 	
 	
